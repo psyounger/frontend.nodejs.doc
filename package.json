@@ -1,0 +1,24 @@
+{
+  "name": "frontend.nodejs.doc",
+  "version": "1.0.0",
+  "description": "this is a document about studying of nodejs",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psyounger/frontend.nodejs.doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psyounger/frontend.nodejs.doc/issues"
+  },
+  "homepage": "https://github.com/psyounger/frontend.nodejs.doc#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  }
+}
